@@ -1,0 +1,26 @@
+[
+  {
+    "code": "BKK",
+    "name": "Suvarnabhumi Airport"
+  },
+  {
+    "code": "DMK",
+    "name": "Don Mueang Airport"
+  },
+  {
+    "code": "HKT",
+    "name": "Phuket International Airport"
+  },
+  {
+    "code": "CNX",
+    "name": "Chiang Mai International Airport"
+  },
+  {
+    "code": "KBV",
+    "name": "Krabi Airport"
+  },
+  {
+    "code": "HDY",
+    "name": "Hat Yai International Airport"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "origin": "BKK",
+    "destination": "HKT",
+    "airline": "TG",
+    "fare": 2450,
+    "currency": "THB",
+    "rules": {
+      "change": "Allowed with fee",
+      "refund": "Not allowed",
+      "baggage": "20kg"
+    }
+  },
+  {
+    "origin": "DMK",
+    "destination": "CNX",
+    "airline": "FD",
+    "fare": 890,
+    "currency": "THB",
+    "rules": {
+      "change": "Not allowed",
+      "refund": "Not allowed",
+      "baggage": "7kg carry-on"
+    }
+  }
+]
